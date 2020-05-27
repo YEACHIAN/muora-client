@@ -1,0 +1,170 @@
+/*
+ * @Author: 银角大王 
+ * @Date: 2020-03-17 14:43:38 
+ * @Description:  
+ */
+ 
+.mt-5{margin-top:5px}
+.mt-10{margin-top:10px}
+.mt-12{margin-top:12px}
+.mt-13{margin-top:13px}
+.mt-15{margin-top:15px}
+.mt-20{margin-top:20px}
+.mt-25{margin-top:25px}
+.mt-30{margin-top:30px}
+.mt-35{margin-top:35px}
+.mt-40{margin-top:40px}
+.mt-50{margin-top:50px}
+ 
+.mb-5{margin-bottom:5px}
+.mb-6{margin-bottom:6px}
+.mb-8{margin-bottom:8px}
+.mb-10{margin-bottom:10px}
+.mb-15{margin-bottom:15px}
+.mb-20{margin-bottom:20px}
+.mb-25{margin-bottom:25px}
+.mb-30{margin-bottom:30px}
+.mb-35{margin-bottom:35px}
+.mb-40{margin-bottom:40px}
+.mb-50{margin-bottom:50px}
+ 
+.ml-5{margin-left:5px}
+.ml-10{margin-left:10px}
+.ml-15{margin-left:15px}
+.ml-20{margin-left:20px}
+.ml-25{margin-left:25px}
+.ml-30{margin-left:30px}
+.ml-40{margin-left:40px}
+.ml-50{margin-left:50px}
+.ml-auto{margin-left:auto}
+ 
+.mr-5{margin-right:5px}
+.mr-10{margin-right:10px}
+.mr-15{margin-right:15px}
+.mr-20{margin-right:20px}
+.mr-30{margin-right:30px}
+.mr-40{margin-right:40px}
+.mr-50{margin-right:50px}
+
+.f-12{font-size:12px}
+.f-13{font-size:13px}
+.f-14{font-size:14px}
+.f-15{font-size:15px}
+.f-16{font-size:16px}
+.f-18{font-size:18px}
+.f-20{font-size:20px}
+.f-22{font-size:22px}
+.f-24{font-size:24px}
+.f-26{font-size:26px}
+.f-28{font-size:28px}
+.f-30{font-size:30px}
+
+.pt-0{padding-top:0px}
+.pt-5{padding-top:5px}
+.pt-10{padding-top:10px}
+.pt-15{padding-top:15px}
+.pt-20{padding-top:20px}
+ 
+.pb-0{padding-bottom:0px}
+.pb-5{padding-bottom:5px}
+.pb-10{padding-bottom:10px}
+.pb-15{padding-bottom:15px}
+.pb-20{padding-bottom:20px}
+ 
+.pl-5{padding-left:5px}
+.pl-10{padding-left:10px}
+.pl-15{padding-left:15px}
+.pl-20{padding-left:20px}
+.pl-30{padding-left:30px}
+ 
+.pr-5{padding-right:5px}
+.pr-10{padding-right:10px}
+.pr-15{padding-right:15px}
+.pr-20{padding-right:20px}
+.pr-30{padding-right:30px}
+
+.pd-0{padding:0px}
+.pd-5{padding:5px}
+.pd-10{padding:10px}
+.pd-15{padding:15px}
+.pd-20{padding:20px}
+.pd-25{padding: 25px;}
+.lh-12{line-height:12px}
+.lh-14{line-height:14px}
+.lh-15{line-height:15px}
+.lh-16{line-height:16px}
+.lh-17{line-height:17px}
+.lh-18{line-height:18px}
+.lh-20{line-height:20px}
+.lh-22{line-height:22px}
+.lh-24{line-height:24px}
+.lh-26{line-height:26px}
+.lh-28{line-height:28px}
+.lh-30{line-height:30px}
+.lh-40{line-height:40px}
+
+.fw-100{font-weight: 100}
+.fw-200{font-weight: 200}
+.fw-300{font-weight: 300}
+.fw-400{font-weight: 400}
+.fw-500{font-weight: 500}
+.fw-600{font-weight: 600}
+
+.f-l{float: left}
+.f-r{float: right}
+.clear{clear: both}
+
+.c-1{color:#303133}
+.c-2{color:#606266}
+.c-3{color:#909399}
+.c-4{color:#C0C4CC}
+
+.c-5{color: #8590A6;}
+.c-6{color: #75849a;}
+
+.c-blue{color: #409EFF;}
+
+.text-c{text-align: center}
+.text-r{text-align: right}
+.text-l{text-align: left}
+
+.border-t{border-top:1px solid #f0f0f0}
+.border-r{border-right:1px solid #f0f0f0}
+.border-b{border-bottom:1px solid #f0f0f0}
+.border-l{border-left:1px solid #f0f0f0}
+
+.in-block{display: inline-block}
+
+.block{display: block}
+
+.none{display: none}
+
+.flex{ display: flex;}
+.align-center{
+    align-items: center
+}
+.between{
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+}
+
+.boxShadow{
+    border: none;
+    box-shadow: 0 1px 3px rgba(26,26,26,.1);
+}
+
+.marginAuto{
+    margin: 0 auto;
+}
+
+
+.cursor_pointer{cursor:pointer}
+
+.p-r{position: relative}
+.p-a{position: absolute}
+.fixed{position: fixed}
+
+
+.fit-cover{
+    object-fit: cover;
+}

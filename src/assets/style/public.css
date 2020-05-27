@@ -1,0 +1,45 @@
+/*
+ * @Author: 银角大王 
+ * @Date: 2020-03-17 14:43:20 
+ * @Description:  
+ */
+ 
+* {
+    margin:0;padding:0;
+    -webkit-tap-highlight-color:rgba(0,0,0,0);
+    -webkit-text-size-adjust:none;
+    font-family: -apple-system,"BlinkMacSystemFont","Helvetica Neue","PingFang SC","Microsoft YaHei","Source Han Sans SC","Noto Sans CJK SC","WenQuanYi Micro Hei",sans-serif
+}
+
+
+html,body,#app{
+  /*抗锯齿*/
+  -webkit-font-smoothing: antialiased;
+  padding:0;
+  margin:0;
+  width: 100%;
+  height: 100%;
+  background-color: #f6f6f6;
+}
+
+pre, code,pre span { font-family: Consolas,Monoca }
+
+a {outline:0;cursor:pointer;}
+a:link,a:active{text-decoration:none;}
+a:visited{text-decoration:none;}
+a:hover{text-decoration:underline;}
+ul, ol, li {
+  padding-left: 0;
+  list-style-type: none;
+}
+img{
+  vertical-align: middle;
+  border-style: none;
+}
+
+@font-face {
+  font-family: "ADELE";
+  src: url('../font/ADELE.ttf');
+  font-weight: normal;
+  font-style: normal;
+}

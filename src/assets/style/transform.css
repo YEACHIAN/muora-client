@@ -1,0 +1,31 @@
+/*
+ * @Author: 银角大王 
+ * @Date: 2020-03-17 14:43:28 
+ * @Description:  
+ */
+ 
+.fade-leave-active,
+.fade-enter-active {
+  transition: all .5s;
+}
+.fade-enter {
+  opacity: 0;
+  transform: translateX(-30px);
+}
+.fade-leave-to {
+  opacity: 0;
+  transform: translateX(30px);
+}
+
+.egg-leave-active,
+.egg-enter-active {
+  transition: all .5s;
+}
+.egg-enter {
+  opacity: 0;
+  transform: translateX(-30px);
+}
+.egg-leave-to {
+  opacity: 0;
+  transform: translateX(30px);
+}
